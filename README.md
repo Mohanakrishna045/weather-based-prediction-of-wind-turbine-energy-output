@@ -1,0 +1,2 @@
+# weather-based-prediction-of-wind-turbine-energy-output
+The project aims to predict the energy output of a wind turbine based on weather conditions. This is valuable for energy companies and grid operators to manage and optimize energy production. By the data of weather conditions and energy output, machine learning models can be trained to predict the energy of a wind turbine given current climate.
